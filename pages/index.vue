@@ -1,5 +1,12 @@
 <template>
-  <AppHeader />
+  <div>
+    <AppHeader />
+
+    <div class="px-16 mt-8">
+      <LanguagePicker />
+    </div>
+  </div>
+
 </template>
 
 <script lang="ts">
