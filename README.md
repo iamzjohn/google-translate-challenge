@@ -1,4 +1,10 @@
 # google-translate-challenge
+
+The design of Challenge:
+![Image of the design](https://assets.materialup.com/uploads/c433d724-567e-4cdc-8be6-7359b0527fa2/attachment.png) 
+
+
+
 This is my code proposal for this challenge in uplabs using Vue, first tell that when I did this, the License was free and for personal project.
 
 You can check the result [here](https://adelino-google-translate-challenge.netlify.app/)
