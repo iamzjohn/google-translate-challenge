@@ -4,6 +4,8 @@
 
     <div class="px-16 mt-8">
       <LanguagePicker />
+
+      <TranslationComponent />
     </div>
   </div>
 
